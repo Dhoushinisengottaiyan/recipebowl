@@ -15,12 +15,7 @@ pinned: false
 Want to give it a try? Then what's the wait, head over to the demo [here](https://share.streamlit.io/chef-transformer/chef-transformer/main/app.py).
 
 
-## Team Members
-- Mehrdad Farahani ([m3hrdadfi](https://huggingface.co/m3hrdadfi))
-- Kartik Godawat ([dk-crazydiv](https://huggingface.co/dk-crazydiv))
-- Haswanth Aekula ([hassiahk](https://huggingface.co/hassiahk))
-- Deepak Pandian ([rays2pix](https://huggingface.co/rays2pix))
-- Nicholas Broad ([nbroad](https://huggingface.co/nbroad))
+
 
 ## Dataset
 
